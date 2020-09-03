@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Python, Ember, Testing, and Cyber Security**
 - 📫 How to reach me: **amelieoller@gmail.com**
 - ❤️ I love **automating things, graphic design, and exploring the depths of JavaScript**
-- 🎯 Aspiring to learn more about **Svelte and GraphQL**
+- 🎯 Aspiring to learn more about **Svelte, TypeScript, and GraphQL**
 
 ---
 
