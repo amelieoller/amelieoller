@@ -3,7 +3,7 @@
 ### I'm a Developer, Teacher, and Creative Mind
 
 - 🔭 I’m currently working on **[Markdown Notes][markdownntoes], a note taking application** geared toward people that teach technical concepts, or simply someone that is looking for a place to keep their notes in markdown format
-- 🌱 I’m currently learning **Python, Ember, Testing, and Cyber Security**
+- 🌱 I’m currently learning **Java, Ember, Testing, and Cyber Security**
 - 📫 How to reach me: **amelieoller@gmail.com**
 - ❤️ I love **automating things, graphic design, and exploring the depths of JavaScript**
 - 🎯 Aspiring to learn more about **Svelte, TypeScript, and GraphQL**
