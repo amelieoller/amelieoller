@@ -26,20 +26,25 @@
 ### Languages & Tools
 
 <div>
- 	<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-	<img src="https://i2.wp.com/samirbehara.com/wp-content/uploads/2018/01/nosql-database.png?resize=208%2C208&ssl=1" alt="nosql" width="40" height="40"/>
-	<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="firebase" width="40" height="40"/>
-	<img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" alt="mongodb" width="40" height="40"/>
-	<img src="https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png" alt="nosql" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  ...
+ 	<img src="./icons/cib-javascript.svg" alt="javascript" width="40" height="40"/>
+  <img src="./icons/cib-react.svg" alt="react" width="40" height="40"/>
+	<img src="./icons/cib-redux.svg" alt="redux" width="40" height="40"/>
+	<img src="./icons/cib-electron.svg" alt="electron" width="40" height="40"/>
+	<img src="./icons/cib-ruby.svg" alt="ruby" width="40" height="40"/>
+  <img src="./icons/cib-rails.svg" alt="rails" width="40" height="40"/>
+	<img src="./icons/cib-html5.svg" alt="html5" width="40" height="40"/>
+	<img src="./icons/cib-css3.svg" alt="css3" width="40" height="40"/>
+	<img src="./icons/cib-firebase.svg" alt="firebase" width="40" height="40"/>
+	<img src="./icons/cib-mongodb.svg" alt="mongodb" width="40" height="40"/>
+  <img src="./icons/cib-postgresql.svg" alt="postgresql" width="40" height="40"/>
+	<img src="./icons/cib-mysql.svg" alt="mysql" width="40" height="40"/>
+	<img src="./icons/cib-git.svg" alt="git" width="40" height="40"/> 
+	<img src="./icons/cib-bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+	<img src="./icons/cib-java.svg" alt="java" width="40" height="40"/>
+	<img src="./icons/cib-spring.svg" alt="spring" width="40" height="40"/>
+	<img src="./icons/cib-adobe-illustrator.svg" alt="illustrator" width="40" height="40"/>
+	<img src="./icons/cib-adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
+	<img src="./icons/cib-babel.svg" alt="babel" width="40" height="40"/>
+...
+
 </div>
